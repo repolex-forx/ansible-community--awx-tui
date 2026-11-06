@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/awx-tui/commit/7875fc3b72cc0362589f55d299159e5cdbe8f7b9",
       "git:hexsha": "7875fc3b72cc0362589f55d299159e5cdbe8f7b9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T19:34:27.528085+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/awx-tui/commit/6cd2395b7e40a8f8c1987dd9a7ca15da4169a141",
